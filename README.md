@@ -209,11 +209,7 @@ IoT_Cybersecurity_EDA/
     ├── attack_type_protocol_heatmap.png
     ├── correlation_heatmap.png
     └── attack_category_flow_duration.png
-```
 
-If you include the dataset CSV files in GitHub, add a `Dataset/` folder and include the files only if permitted by the dataset's sharing terms.
-
----
 
 ## Author
 
@@ -231,4 +227,4 @@ If you include the dataset CSV files in GitHub, add a `Dataset/` folder and incl
 - **Tools:** Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn
 - **Methods:** Data cleaning, exploratory data analysis, statistical analysis, data visualization, correlation analysis, and outlier analysis
 
-*Note: Add the verified dataset publication/source link when available.*
+
