@@ -118,43 +118,45 @@ Potential outliers were investigated rather than automatically removed, since ex
 
 Examines the frequency of attack categories represented in the dataset.
 
-![Attack Type Distribution](./Visualizations/attack_type_distribution.png)
+<img width="882" height="428" alt="Distribution of IoT Attack Types" src="https://github.com/user-attachments/assets/adf4fd75-4315-4eb4-9a89-b44195e5ec1d" />
 
 ### 2. Network Protocol Distribution
 
 Examines the distribution of network communication protocols in the observed traffic.
 
-![Network Protocol Distribution](./Visualizations/network_protocol_distribution.png)
+<img width="887" height="532" alt="Network Protocol Distribution" src="https://github.com/user-attachments/assets/f3f55d77-87d0-46a2-a1ff-b01149e12b84" />
 
 ### 3. Network Flow Duration Distribution
 
 Explores the distribution and variability of network flow durations.
 
-![Network Flow Duration Distribution](./Visualizations/flow_duration_distribution.png)
+<img width="883" height="527" alt="Distribution of Network Flow Duration " src="https://github.com/user-attachments/assets/e2a521f5-abbb-451e-8c11-4c558d809927" />
 
 ### 4. Numerical Feature Outlier Analysis
 
 Uses a boxplot to inspect potential extreme observations in flow duration. The notebook also includes IQR-based outlier analysis for selected numerical network features.
 
-![Flow Duration Boxplot](./Visualizations/flow_duration_boxplot.png)
+<img width="842" height="315" alt="outlier analysis of flow duration " src="https://github.com/user-attachments/assets/a8263766-b4b3-43c4-ac7d-aa90d3ff4436" />
 
 ### 5. Attack Type Distribution Across Network Protocols
 
 Uses a heatmap to compare the distribution of attack categories across network protocols.
 
-![Attack Type Across Network Protocols](./Visualizations/attack_type_protocol_heatmap.png)
+<img width="880" height="436" alt="Attack Types Across Network Protocols" src="https://github.com/user-attachments/assets/25ae5b0b-fcb2-4364-972f-eae41bb042da" />
+
 
 ### 6. Correlation Analysis of Numerical Network Features
 
 Uses a correlation heatmap to examine relationships among selected numerical network features.
 
-![Correlation Heatmap](./Visualizations/correlation_heatmap.png)
+<img width="890" height="650" alt="Correlation Between Network Traffic Features" src="https://github.com/user-attachments/assets/2134eb64-f780-4701-922a-6a0a2afa3321" />
 
 ### 7. Flow Duration Across Attack Categories
 
 Compares flow-duration characteristics across attack categories using a boxplot.
 
-![Flow Duration Across Attack Categories](./Visualizations/attack_category_flow_duration.png)
+<img width="892" height="465" alt="Flow Duration Across IoT Attack Categories" src="https://github.com/user-attachments/assets/fdd6fdf6-104a-4373-b735-dafc4ac7a7c4" />
+
 
 ---
 
@@ -216,10 +218,10 @@ If you include the dataset CSV files in GitHub, add a `Dataset/` folder and incl
 ## Author
 
 - **Name:** Madhumidhaa A P
-- **Student ID:** [Enter your Student ID]
+- **Student ID:** AF05308674
 - **Organization:** Anudip Foundation
 - **Course:** AIML
-- **Batch Code:** [Enter your Batch Code]
+- **Batch Code:** ANP-D7444
 
 ---
 
